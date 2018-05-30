@@ -4,5 +4,6 @@
 
 def roll
   #rand 1..6
-  dice = array.new
+  dice = Array.new
+  dice = 
 end
